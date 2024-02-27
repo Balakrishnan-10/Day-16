@@ -1,0 +1,18 @@
+body{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div {
+    height: 200px;
+    width:500px;
+    text-align: center;
+    font-size: 50px;
+    justify-content: center;
+    align-items: center;
+    color:blue;
+    text-shadow: 5px 5px 12px;
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow: inset 5px 5px 15px;
+}
